@@ -1,0 +1,9 @@
+def
+
+LIBRARY MyIME
+EXPORTS
+    ImeInquire
+    ImeConfigure
+    ImeProcessKey
+    ImeToAsciiEx
+

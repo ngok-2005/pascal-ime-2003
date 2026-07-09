@@ -1,0 +1,1 @@
+fpc -Twin32 -WD ime.pas
